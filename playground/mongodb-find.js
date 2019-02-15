@@ -39,4 +39,6 @@ MongoClient.connect(url, { useNewUrlParser: true }, (err, client) => {
 
     client.close();
 
+    // Added modification
+
 });
